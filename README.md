@@ -10,4 +10,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
