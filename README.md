@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
