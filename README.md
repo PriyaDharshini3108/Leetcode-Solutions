@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
