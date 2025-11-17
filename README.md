@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0067-add-binary) |
 ## Simulation
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0496-next-greater-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
