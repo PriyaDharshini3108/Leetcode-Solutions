@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0089-gray-code) |
 ## Greedy
 |  |
