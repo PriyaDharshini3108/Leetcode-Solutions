@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0089-gray-code) |
+| [0191-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0476-number-complement) |
 ## Math
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
