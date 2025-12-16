@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0097-interleaving-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0068-text-justification) |
 ## Linked List
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
