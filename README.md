@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0500-keyboard-row](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0500-keyboard-row) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 ## Recursion
 |  |
