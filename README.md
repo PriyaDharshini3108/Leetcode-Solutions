@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0383-ransom-note](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0551-student-attendance-record-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0383-ransom-note](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 ## Two Pointers
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
