@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0197-rising-temperature) |
+| [0595-big-countries](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0595-big-countries) |
 ## Monotonic Stack
 |  |
 | ------- |
