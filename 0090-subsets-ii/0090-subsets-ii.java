@@ -1,21 +1,26 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        List<List<Integer>> result=new ArrayList<>();
+        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> subset = new ArrayList<>();
         Arrays.sort(nums);
-        findSubset(result,new Stack<>(),0,nums);
-        return result;
+        backtrack(0, nums, subset, res);
+        return res;        
     }
-    void findSubset(List<List<Integer>> result,Stack<Integer> st,int i,int[] nums ) {
-        if(i>=nums.length) {
-            result.add(new ArrayList<>(st));
+
+    private void backtrack(int i, int[] nums, List<Integer> subset, List<List<Integer>> res) {
+        if (i == nums.length) {
+            res.add(new ArrayList<>(subset));
             return;
         }
-        //include 
-        st.push(nums[i]);
-        findSubset(result,st,i+1,nums);
-        st.pop();
-        //skippingDuplicates
-        while(i+1<nums.length && nums[i]==nums[i+1]) i++;
-        findSubset(result,st,i+1,nums);
-    }
+
+        subset.add(nums[i]);
+        backtrack(i + 1, nums, subset, res);
+        subset.remove(subset.size() - 1);
+
+        while (i + 1 < nums.length && nums[i] == nums[i + 1]) {
+            i++;
+        }
+
+        backtrack(i + 1, nums, subset, res);
+    }    
 }
