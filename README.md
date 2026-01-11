@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0231-power-of-two) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0198-house-robber](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 ## Design
 |  |
