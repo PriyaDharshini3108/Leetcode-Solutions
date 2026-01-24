@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0326-power-of-three) |
 ## Simulation
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0500-keyboard-row) |
@@ -322,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
