@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0383-ransom-note](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0500-keyboard-row) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
@@ -359,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
