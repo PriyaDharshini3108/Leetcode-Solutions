@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0149-max-points-on-a-line](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0097-interleaving-string) |
+| [0120-triangle](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0198-house-robber) |
