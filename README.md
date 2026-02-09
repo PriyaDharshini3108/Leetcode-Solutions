@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0455-assign-cookies](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
 | ------- |
