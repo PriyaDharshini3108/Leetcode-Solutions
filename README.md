@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Array
 |  |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
