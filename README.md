@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0143-reorder-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0148-sort-list) |
 ## Tree
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0326-power-of-three) |
