@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0401-binary-watch](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0476-number-complement) |
 ## Math
 |  |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0401-binary-watch) |
 ## Greedy
 |  |
 | ------- |
