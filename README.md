@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Memoization
 |  |
 | ------- |
