@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0068-text-justification) |
 ## Linked List
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0079-word-search) |
