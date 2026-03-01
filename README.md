@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
