@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0327-count-of-range-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0455-assign-cookies](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0500-keyboard-row) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0327-count-of-range-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0327-count-of-range-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0327-count-of-range-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -456,4 +460,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
