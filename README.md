@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0357-count-numbers-with-unique-digits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0477-total-hamming-distance](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0357-count-numbers-with-unique-digits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0357-count-numbers-with-unique-digits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Greedy
