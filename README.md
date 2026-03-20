@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0391-perfect-rectangle](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
+| [0491-non-decreasing-subsequences](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [1980-find-unique-binary-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0401-binary-watch) |
+| [0491-non-decreasing-subsequences](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
