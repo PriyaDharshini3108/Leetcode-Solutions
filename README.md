@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0477-total-hamming-distance](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0479-largest-palindrome-product](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0479-largest-palindrome-product) |
+| [0492-construct-the-rectangle](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [1622-fancy-sequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 ## Simulation
 |  |
