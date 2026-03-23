@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0068-text-justification) |
+| [0498-diagonal-traverse](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1920-build-array-from-permutation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Linked List
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1920-build-array-from-permutation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 ## Sorting
 |  |
 | ------- |
