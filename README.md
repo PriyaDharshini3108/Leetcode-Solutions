@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [0541-reverse-string-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0592-fraction-addition-and-subtraction](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0796-rotate-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 ## Database
 |  |
 | ------- |
