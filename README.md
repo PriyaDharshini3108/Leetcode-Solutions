@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0682-baseball-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Linked List
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0766-toeplitz-matrix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
