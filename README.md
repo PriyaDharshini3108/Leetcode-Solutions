@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [0526-beautiful-arrangement](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0561-array-partition](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0526-beautiful-arrangement](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 ## Recursion
 |  |
 | ------- |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [1980-find-unique-binary-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
@@ -593,4 +597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0561-array-partition) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
