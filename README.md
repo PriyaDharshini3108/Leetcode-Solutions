@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0415-add-strings](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0482-license-key-formatting](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0551-student-attendance-record-i) |
