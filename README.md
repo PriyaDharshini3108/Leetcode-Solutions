@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0561-array-partition](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0575-distribute-candies) |
+| [0661-image-smoother](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0661-image-smoother](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
