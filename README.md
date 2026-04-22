@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1980-find-unique-binary-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Stack
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3488-closest-equal-element-queries](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -652,4 +654,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
