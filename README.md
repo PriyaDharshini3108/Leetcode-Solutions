@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0819-most-common-word](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0874-walking-robot-simulation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Shortest Path
