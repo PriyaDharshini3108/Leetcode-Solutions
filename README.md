@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [1306-jump-game-iii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [1306-jump-game-iii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0874-walking-robot-simulation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [1306-jump-game-iii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
