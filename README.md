@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2540-minimum-common-value](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0327-count-of-range-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 ## Hash Table
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Database
 |  |
 | ------- |
