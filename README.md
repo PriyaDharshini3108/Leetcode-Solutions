@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0874-walking-robot-simulation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0526-beautiful-arrangement](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0788-rotated-digits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0788-rotated-digits) |
+| [1340-jump-game-v](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [1340-jump-game-v](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
