@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 ## Hash Table
@@ -694,11 +696,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
+| [3161-block-placement-queries](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 | [1622-fancy-sequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 ## Ordered Set
 |  |
 | ------- |
