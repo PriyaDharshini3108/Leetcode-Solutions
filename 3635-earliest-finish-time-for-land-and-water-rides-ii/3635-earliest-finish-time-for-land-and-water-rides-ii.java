@@ -1,25 +1,21 @@
-// same question as leetcode 3633 but  allow brute force
-//O(M + N)
 class Solution {
-    public int earliestFinishTime(int[] landStartTime, int[] landDuration, int[] waterStartTime, int[] waterDuration) {
-        int land_water = solve(landStartTime , landDuration , waterStartTime , waterDuration);
+    final static int MAX = 300005;
 
-        int water_land = solve(waterStartTime , waterDuration , landStartTime , landDuration);
-        
-        return Math.min(land_water , water_land);
-    }
+    public int earliestFinishTime(int[] la, int[] lb, int[] wa, int[] wb) {
+        int l = MAX, w = MAX, minL = MAX, minW = MAX;
+        int n = la.length, m = wa.length;
 
-    public int solve(int[] start1 , int[] duration1 , int[] start2 , int[] duration2){
-        int finish1 = Integer.MAX_VALUE;
-        for(int i  = 0 ; i< start1.length ; i++){
-            finish1 = Math.min(finish1 , start1[i] + duration1[i]);   
+        for (int i = 0; i < n; ++i)
+            l = Math.min(l, la[i] + lb[i]);
+
+        for (int i = 0; i < m; ++i) {
+            w = Math.min(w, wa[i] + wb[i]);
+            minL = Math.min(minL, Math.max(wa[i], l) + wb[i]);
         }
 
-        int finish2 = Integer.MAX_VALUE;
-        for(int i = 0 ; i <start2.length ;i++){
-            finish2 = Math.min(finish2 , Math.max(start2[i],finish1)+ duration2[i]);
-        }
+        for (int i = 0; i < n; ++i)
+            minW = Math.min(minW, Math.max(la[i], w) + lb[i]);
 
-        return finish2;
+        return Math.min(minW, minL);
     }
 }
