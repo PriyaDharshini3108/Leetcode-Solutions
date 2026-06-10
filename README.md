@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0332-reconstruct-itinerary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 | [1622-fancy-sequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Ordered Set
 |  |
 | ------- |
