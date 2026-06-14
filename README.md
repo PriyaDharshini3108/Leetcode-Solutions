@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0432-all-oone-data-structure](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0705-design-hashset](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
