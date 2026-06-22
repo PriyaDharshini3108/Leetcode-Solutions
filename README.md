@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0796-rotate-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [1189-maximum-number-of-balloons](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1980-find-unique-binary-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0819-most-common-word](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0874-walking-robot-simulation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [1189-maximum-number-of-balloons](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0819-most-common-word](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [1189-maximum-number-of-balloons](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Bucket Sort
 |  |
