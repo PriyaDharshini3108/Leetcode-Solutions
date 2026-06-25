@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0327-count-of-range-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0327-count-of-range-sum](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -773,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -818,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Shortest Path
 |  |
 | ------- |
