@@ -778,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0479-largest-palindrome-product) |
+| [1291-sequential-digits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
