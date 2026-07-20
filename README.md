@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0874-walking-robot-simulation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [1260-shift-2d-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
