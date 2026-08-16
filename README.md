@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -1031,20 +1035,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
