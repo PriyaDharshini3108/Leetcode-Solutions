@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [0835-image-overlap](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0835-image-overlap](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
