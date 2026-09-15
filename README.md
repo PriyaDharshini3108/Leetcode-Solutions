@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -866,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
