@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0592-fraction-addition-and-subtraction](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0678-valid-parenthesis-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0940-distinct-subsequences-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
+| [0678-valid-parenthesis-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -901,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1197,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
