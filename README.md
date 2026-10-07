@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0383-ransom-note](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0463-island-perimeter) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/PriyaDharshini3108/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
